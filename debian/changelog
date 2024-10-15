@@ -1,5 +1,24 @@
-template-repository (1.0-1) unstable; urgency=medium
+python-merge3 (0.0.8-1) unstable; urgency=medium
 
-  * Initial release
+  * New upstream version.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Sat, 13 Mar 2021 13:38:42 +0000
+
+python-merge3 (0.0.7-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Sat, 13 Mar 2021 00:50:47 +0000
+
+python-merge3 (0.0.4-2) unstable; urgency=medium
+
+  * Bump debhelper-compat to 13.
+  * Add signing key.
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Mon, 08 Feb 2021 01:04:53 +0000
+
+python-merge3 (0.0.4-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #955998)
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Sun, 05 Apr 2020 20:58:32 +0000
